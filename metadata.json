@@ -1,0 +1,6 @@
+{
+  "name": "Tech Vacancy Analytics & Portfolio Studio",
+  "description": "Python data analytics portfolio project: Job market vacancy parser, salary benchmarks, skill extraction, and infographic generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
